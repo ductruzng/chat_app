@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "286516068359",
+    "project_id": "auth-flutter-ca5ba",
+    "storage_bucket": "auth-flutter-ca5ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286516068359:android:2d7059d6cad6425d02aaa2",
+        "android_client_info": {
+          "package_name": "com.example.auth_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl9ash7MNLNN8FWpQJwLyh9i03Y95CbJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
